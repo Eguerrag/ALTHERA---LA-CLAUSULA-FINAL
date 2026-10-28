@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/lectura", "destination": "/ALTHERA_LECTURA_SIN_PANTALLA_NEGRA.html" }
-  ]
-}
